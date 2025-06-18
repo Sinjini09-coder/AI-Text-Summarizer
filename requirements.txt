@@ -1,0 +1,9 @@
+
+pip install transformers
+pip install nltk
+pip install spacy
+pip install streamlit
+pip install torch
+pip install sumy
+pip install streamlit
+pip install tourch
